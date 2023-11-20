@@ -1,0 +1,15 @@
+{
+  "name": "backend-course",
+  "version": "1.0.0",
+  "description": "a backend course with alone king",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "aloneking",
+  "license": "ISC"
+}
